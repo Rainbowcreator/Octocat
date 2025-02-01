@@ -3,6 +3,8 @@ Because the author likes cats so much, he named them this, and this library will
 
 ## Please be sure to read the following, which is very important to us and you!Thank you!
 
+### You can check the terms of use first [View Terms](TERMS.md),Then check the copyright statement below.
+
 # Octocat Repository
 
 Welcome to my Octocat public repository! This is a place for storing [briefly introduce the purpose of the repository, such as personal project code, learning notes, open - source tools, etc.].
