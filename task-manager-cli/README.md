@@ -2,6 +2,10 @@
 # Octocat
 This is a repository that provides a variety of open - source projects.
 
+# Proportion of programming languages used in projects
+## prompt⚠:This proportion is for reference only!
+python proportion 100%(All, no other programming languages used)
+
 ## Core Functions
 - **Project Expansion**: New open - source projects can be added continuously to expand the functionality scope.
 - **Code Sharing**: Share high - quality code snippets and complete projects for developers to learn from.
